@@ -53,6 +53,13 @@ img:nth-child(4),
 
 @media only screen and (min-width: 38em) {
 
+  img:nth-child(5) {
+    display: none;
+  }
+
+  img {
+    width: 33.3%
+  }
 }
 
 
